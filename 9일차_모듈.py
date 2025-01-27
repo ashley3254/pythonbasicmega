@@ -1,3 +1,2 @@
 import random
-
-random(random.randint(10,20))
+(random.randint(10,20))
